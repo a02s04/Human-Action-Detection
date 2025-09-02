@@ -47,3 +47,14 @@ The dataset used is from Kaggle: [Human Activity Recognition](https://www.kaggle
    ```bash
    git clone https://github.com/a02s04/Human_Action_Detection.git
    cd Human_Action_Detection
+
+2. Install the depenedencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook
+   ```bash
+   jupyter notebook Human_Action_Detection.ipynb
+
+
+
